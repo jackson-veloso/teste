@@ -2,3 +2,4 @@ Jedi
 Piloto
 
 Espiao
+Atirador
